@@ -1,10 +1,14 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://herokupushtest.herokuapp.com",
+    "appId": “herokupushtest”,
+    "masterKey": “herokupushtestmaster”,
+    "appName": “Parse Server“,
     "iconName": ""
+  }],
+  “users”: [{
+    “user”:”mgonzalez”,
+    “pass”:”mgonzalez1234”
   }],
   "iconsFolder": "icons"
 }
